@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: black;
+    
+    
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    color: midnightblue;
+    font-size: 40px;
+    font-family: Arial;
+}
+.numeros{
+    
+    block-size: 80px;
+    width: 80px;
+    
+    background-color: orange;
+    border-radius: 80px;
+    margin-bottom: 4px;
+    text-align: center;
+    font-size: 30px;
+    font-family:'Trebuchet MS';
+
+
+}
+#calculador{
+    width: 330px;
+    block-size: 50px;
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    border-radius: 25px;
+    text-align: right;
+    padding: 10px;
+    font-family: Arial;
+    
+}
+#numero0{
+    width: 160px;
+    text-align: left;
+    padding: 20px;
+   
+}
+.numero1{
+    height: 80px;
+    width: 80px;
+    
+    background-color:rgb(93, 93, 92);
+    border-radius: 70px;
+    
+    
+    font-size: 30px;
+    font-family:Georgia;
+   
+    color: white;
+    
+}
